@@ -36,6 +36,6 @@ The dataset used for this project is provided by the Maven Hospital Challenge an
 This project has been a fantastic learning experience, enhancing skills in data analysis, visualization, and Power BI. Special thanks to Maven Analytics for providing such a challenging and rewarding dataset!
 
 ### Acknowledgements
-- Thamks 🙏 Maven Analytics for the dataset and the challenge.
+- Thanks 🙏 Maven Analytics for the dataset and the challenge.
 
 
